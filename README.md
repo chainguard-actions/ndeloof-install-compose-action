@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v0.0.1 | [`v0.0.1`](https://github.com/chainguard-actions/ndeloof-install-compose-action/tree/v0.0.1) | [`4a33bc3`](https://github.com/ndeloof/install-compose-action/commit/4a33bc31f327b8231c4f343f6fba704fedc0fa23) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v0.0.1 | [`v0.0.1`](https://github.com/chainguard-actions/ndeloof-install-compose-action/tree/v0.0.1) | [`4a33bc3`](https://github.com/ndeloof/install-compose-action/commit/4a33bc31f327b8231c4f343f6fba704fedc0fa23) | [`HARDENING.md`](https://github.com/chainguard-actions/ndeloof-install-compose-action/blob/v0.0.1/HARDENING.md) |
 
 ## Privacy
 
